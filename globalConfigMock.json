@@ -1,0 +1,14 @@
+[
+  {
+    "context": "/demo1",
+    "include": "demo1.json"
+  },
+  {
+    "context": "/get",
+    "include": "getMock.json"
+  },
+  {
+    "context": "/post",
+    "include": "postMock.json"
+  }
+]
